@@ -1,6 +1,4 @@
-#include<iostream>
-#include<string>
-#include<map>
+#include<bits/stdc++.h>
 using namespace std;
 void intersect(string a,string b,map<char,int> m1,map<char,int> m2,map<char,int> res)
 {	cout<<"Intersection of Set A and B is : ";
