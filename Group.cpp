@@ -1,5 +1,4 @@
-#include<iostream>
-#include<map>
+#include<bits/stdc++.h>
 using namespace std;
 map<float,int> m;
 bool Closure_Property(float a[],char operate,int n)
